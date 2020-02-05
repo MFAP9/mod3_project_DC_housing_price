@@ -4,7 +4,7 @@
 
 [Nate Lu](https://github.com/iuniorhsiung)
 <br>
-[Michael Pallante](https://github.com/MFAP9)
+[Michael Pallante](https://github.com/michaelpallante)
 
 ## Project Goal:
 
